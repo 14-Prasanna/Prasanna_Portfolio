@@ -169,7 +169,7 @@ function Navbar() {
             <span className="relative rounded-full h-2.5 w-2.5 bg-accent" />
           </span>
           <span className="font-mono font-medium tracking-tighter text-xs uppercase">
-            sdet_portfolio
+            prasanna_portfolio
           </span>
         </a>
 
